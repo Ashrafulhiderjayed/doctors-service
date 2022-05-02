@@ -22,7 +22,7 @@ const Header = () => {
       <Navbar sticky="top" bg="light" className="p-3" expand="lg">
         <Container>
           <Navbar.Brand as={Link} to="/">
-            Dr. William 
+            Dr. F Turner
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">

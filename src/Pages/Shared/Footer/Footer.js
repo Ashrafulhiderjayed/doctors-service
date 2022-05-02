@@ -14,7 +14,7 @@ const Footer = () => {
         <div className="col-md-3 footer">
           <h6 className="mb-4">About us</h6>
           <p>
-            Dr. William F. Turner is a thoracic surgeon in Tyler, Texas and is
+            Dr. F. Turner is a thoracic surgeon in Tyler, Texas and is
             affiliated with Christus Mother Frances Hospital-Tyler. He received
             his medical degree from Baylor College of Medicine and has been in
             practice for more than 20 years.
@@ -40,7 +40,7 @@ const Footer = () => {
         <div className="col-md-3 footer">
           <h6 className="mb-4"> <FontAwesomeIcon className="text-primary" icon={faLocationDot} /> Address</h6>
           <h6 className="hover-style"> <FontAwesomeIcon className="text-primary" icon={faPhone} /> +1 222 333 444</h6>
-          <h6 className="hover-style"> <FontAwesomeIcon className="text-primary" icon={faEnvelope} /> dr.williamfturner@gmail.com</h6>
+          <h6 className="hover-style"> <FontAwesomeIcon className="text-primary" icon={faEnvelope} /> dr.fturner@gmail.com</h6>
         </div>
         <p className="copyright">
           <small>Copyright {year} © Dr. William F Turner</small>

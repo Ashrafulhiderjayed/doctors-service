@@ -15,9 +15,12 @@ const About = () => {
           <p className="p-color">Student of Programming Hero</p>
           <p>
             My goal for next 1 year is to become a{" "}
-            <span className="dev-color" >Full Stack Web Developer</span> for that I am preparing myself. I will apply for internship or job after
-            completing the programming hero course in the next 2 months and
-            for this i'm learning core concepts of front end techonologies. Besides, I do problem solving based on data structure and algorithms. This might increase my thinking capabilities Insha Allah.
+            <span className="dev-color">Full Stack Web Developer</span> for that
+            I am preparing myself. I will apply for internship or job after
+            completing the programming hero course in the next 2 months and for
+            this i'm learning core concepts of front end techonologies. Besides,
+            I do problem solving based on data structure and algorithms. This
+            might increase my thinking capabilities Insha Allah.
           </p>
         </div>
       </div>
