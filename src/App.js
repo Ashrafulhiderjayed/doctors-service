@@ -1,6 +1,7 @@
 
 import { Fragment } from 'react';
 import Banner from "../Banner/Banner";
+import Services from "../Services/Services";
 import './App.css';
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
     <div className="">
       <Fragment>
         <Banner />
+        <Services/>
       </Fragment>
     </div>
   );
